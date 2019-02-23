@@ -1,0 +1,29 @@
+{
+  "name": "writteli-npm",
+  "version": "0.0.1",
+  "description": "npm package of writteli - a static page generator",
+  "main": "index.js",
+  "scripts": {
+    "generate": "echo \"This is Work In Progress - to learn more please visit https://writte.li\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszkups/writteli-npm.git"
+  },
+  "keywords": [
+    "static",
+    "site",
+    "generator",
+    "generator",
+    "static",
+    "site",
+    "static"
+  ],
+  "author": "lukaszkups",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukaszkups/writteli-npm/issues"
+  },
+  "homepage": "https://github.com/lukaszkups/writteli-npm#readme"
+}
